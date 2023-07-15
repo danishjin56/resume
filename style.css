@@ -1,0 +1,17 @@
+img{
+    border-radius: 200px;
+}
+body{
+    background-color: rgb(186, 186, 186);
+    font-family: cursive;
+    
+}
+
+.content{
+    
+    font-size: medium;
+    color: rgb(225, 17, 232);;
+}
+.heading{
+    color: black;
+}
